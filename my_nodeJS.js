@@ -17,4 +17,4 @@ const mynodeJS = (x) => {
         x == phoneS[n].phone ? console.log('Your job is '+phoneS[n].massage) : ''
     }
 }
-mynodeJS(5);
+mynodeJS(5); //you can edit
